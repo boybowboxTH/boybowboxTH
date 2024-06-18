@@ -1,4 +1,4 @@
-# 🙏🏼Hello! My name is Suppanut Phonyomma
+# 🙏🏼Hello! My Name is Suppanut Phonyomma
 <br>I am interested in programming and constantly practice. I have collected various works that I have done in my spare time here
 
 
