@@ -22,3 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=boybowboxth&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+body {
+    background-color: #000;
+    color: #fff;
+}
